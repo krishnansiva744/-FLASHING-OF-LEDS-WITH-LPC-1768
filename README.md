@@ -104,4 +104,3 @@ Thus, a LED is interfaced and toggled with ARM LPC1768 Microprocessor.
 
 
 
-
